@@ -1,0 +1,6 @@
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curttimson/hugo-theme-massively.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
